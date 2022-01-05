@@ -1,4 +1,4 @@
-<img width="1619" alt="스크린샷 2021-11-15 오후 10 24 11" src="https://user-images.githubusercontent.com/46434694/141789426-3a979b6f-fdd1-4ff1-a88d-cd0f1293deb1.png">
+![띵-동](https://user-images.githubusercontent.com/46434694/141789426-3a979b6f-fdd1-4ff1-a88d-cd0f1293deb1.png)
 
 ## 1인 가구를 위한 생필품 나누기 플랫폼, 띵-동 🔔
 **`2021 공개SW 개발자대회 동상 수상`**   
