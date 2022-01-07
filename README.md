@@ -65,4 +65,4 @@
 <br>
 
 ## 🔔 LICENSE
-프로젝트의 모든 라이센스는 MIT License를 따릅니다. 상세 라이센스 정보는 [LICENSE](https://github.com/hyeinisfree/dingdong-server/blob/developer/LICENSE)를 참조해주세요.
+프로젝트의 모든 라이센스는 Apache 2.0 License를 따릅니다. 상세 라이센스 정보는 [LICENSE](https://github.com/hyeinisfree/dingdong-server/blob/developer/LICENSE)를 참조해주세요.
